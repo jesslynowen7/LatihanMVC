@@ -16,6 +16,7 @@ public class Main {
     public static void main(String[] args) {
         int k = 0;
         int v = 0;
+        int aa = 0;
         // configs
         
         // start first screen or splash screen or anything
