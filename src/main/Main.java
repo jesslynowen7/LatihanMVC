@@ -17,6 +17,7 @@ public class Main {
         int k = 0;
         int v = 0;
         int aa = 0;
+        int tes = 1;
         // configs
         
         // start first screen or splash screen or anything
